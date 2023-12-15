@@ -1,2 +1,2 @@
-# gke-demo
-Collection demo examples for GKE products
+# DEMO Library
+Collection demo examples for GCP products
